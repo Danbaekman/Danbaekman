@@ -58,15 +58,7 @@
   <a href="https://proteinman.tistory.com">
     <img src="https://img.shields.io/badge/tistory-FF7700?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:20212908@soongsil.ac.kr">
-    <img
-      src="https://img.shields.io/badge/20212908@soongsil.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
-  </a>
-  <a href="https://blog.naver.com/j_nary">
-    <img
-      src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
-  </a>
-  <a href="https://www.instagram.com/j_naary/">
+  <a href="https://www.instagram.com/s_h_oney59?igsh=YWhmNW13NWY2c2xn">
     <img
       src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
   </a>
