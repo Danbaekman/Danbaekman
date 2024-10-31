@@ -1,7 +1,12 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5161a459-9848-41c0-99d7-0b9647547f20" style="max-width: 100%; height: 400px;"/>
 </div>
-
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Danbaekman&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danbaekman&layout=compact&theme=radical" alt="Top Langs" />
+</div>
+<br>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
