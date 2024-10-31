@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f50dca86-dc3d-4ca1-ba61-744b39c69826" alt="GitHub Logo" style="max-width: 100%; height: 400px;"/>
+  <img src="https://github.com/user-attachments/assets/5161a459-9848-41c0-99d7-0b9647547f20" style="max-width: 100%; height: 400px;"/>
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
