@@ -1,4 +1,7 @@
 ## Hi there 👋
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f50dca86-dc3d-4ca1-ba61-744b39c69826" alt="GitHub Logo" />
+</div>
 
 <!--
 **Danbaekman/Danbaekman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
